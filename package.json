@@ -1,0 +1,29 @@
+{
+  "name": "romero-lang",
+  "version": "0.1.0",
+  "description": "A new programming language just for fun",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/romerodiesan/romero-lang.git"
+  },
+  "author": "Diesan Romero <romero@kompoundlifeinc.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/romerodiesan/romero-lang/issues",
+    "email": "romero@kompoundlifeinc.com"
+  },
+  "homepage": "https://github.com/romerodiesan/romero-lang#readme",
+  "devDependencies": {
+    "@jest/globals": "29.5.0",
+    "@types/jest": "29.5.0",
+    "@types/node": "18.15.7",
+    "jest": "29.5.0",
+    "ts-jest": "29.0.5",
+    "ts-node": "10.9.1"
+  }
+}

@@ -1,6 +1,6 @@
 # Romero Lang
 
-Creation of a new interpreted language.
+Creation of a new interpreted programming language.
 
 ## For the moment
 
@@ -20,9 +20,9 @@ fun sum (a, b) => a + b
 ```
 
 ### TODO
-- [] Lexer
-- [] Parser
-- [] Abstract Syntax Tree (AST)
-- [] Internal Representation (IR)
-- [] Evaluator
-- [] REPL
+- [ ] Lexer
+- [ ] Parser
+- [ ] Abstract Syntax Tree (AST)
+- [ ] Internal Representation (IR)
+- [ ] Evaluator
+- [ ] REPL
