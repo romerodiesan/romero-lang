@@ -20,9 +20,9 @@ fun sum (a, b) => a + b
 ```
 
 ### TODO
-- [] Lexer
-- [] Parser
-- [] Abstract Syntax Tree (AST)
-- [] Internal Representation (IR)
-- [] Evaluator
-- [] REPL
+- [ ] Lexer
+- [ ] Parser
+- [ ] Abstract Syntax Tree (AST)
+- [ ] Internal Representation (IR)
+- [ ] Evaluator
+- [ ] REPL
